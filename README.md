@@ -1,6 +1,6 @@
-# automatic-titrator
+# TITRIX
 # OpenTitrator
-### An Open-Source Automated Titration System
+### Automated Titration System
 
 **Low-cost automation · Embedded systems · Computer vision · Analytical chemistry**
 
